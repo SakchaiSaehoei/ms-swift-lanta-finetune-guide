@@ -8,12 +8,18 @@ This guide provides a comprehensive walkthrough for fine-tuning a Qwen language 
 
 ## Table of Contents
 
-1.  [Prerequisites](https://www.google.com/search?q=%231-prerequisites)
-2.  [Step 1: Environment Setup on LANTA](https://www.google.com/search?q=%23step-1-environment-setup-on-lanta)
-3.  [Step 2: Downloading the Pre-trained Model](https://www.google.com/search?q=%23step-2-downloading-the-pre-trained-model)
-4.  [Step 3: Data Preparation](https://www.google.com/search?q=%23step-3-data-preparation)
-5.  [Step 4: The Fine-Tuning Script](https://www.google.com/search?q=%23step-4-the-fine-tuning-script)
-6.  [Step 5: Running Inference (After Training)](#Step-5:-Running-Inference (After Training))
+1.  [Prerequisites]([https://www.google.com/search?q=%231-prerequisites](https://github.com/SakchaiSaehoei/ms-swift-lanta-finetune-guide/blob/main/README.md#1-prerequisites
+))
+2.  [Step 1: Environment Setup on LANTA]([https://www.google.com/search?q=%23step-1-environment-setup-on-lanta](https://github.com/SakchaiSaehoei/ms-swift-lanta-finetune-guide/blob/main/README.md#step-2-downloading-the-pre-trained-model
+))
+3.  [Step 2: Downloading the Pre-trained Model]([https://www.google.com/search?q=%23step-2-downloading-the-pre-trained-model](https://github.com/SakchaiSaehoei/ms-swift-lanta-finetune-guide/blob/main/README.md#step-3-data-preparation
+))
+4.  [Step 3: Data Preparation]([[https://www.google.com/search?q=%23step-3-data-preparation](https://github.com/SakchaiSaehoei/ms-swift-lanta-finetune-guide/blob/main/README.md#step-4-the-fine-tuning-script](https://github.com/SakchaiSaehoei/ms-swift-lanta-finetune-guide/blob/main/README.md#step-3-data-preparation
+)
+))
+5.  [Step 4: The Fine-Tuning Script]([https://www.google.com/search?q=%23step-4-the-fine-tuning-script](https://github.com/SakchaiSaehoei/ms-swift-lanta-finetune-guide/blob/main/README.md#step-4-the-fine-tuning-script
+))
+6.  [Step 5: Running Inference (After Training)]([#Step-5:-Running-Inference (After Training)](https://github.com/SakchaiSaehoei/ms-swift-lanta-finetune-guide/blob/main/README.md#step-5-running-inference-after-training))
 -----
 
 ### 1\. Prerequisites
