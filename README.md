@@ -19,7 +19,7 @@ This guide provides a comprehensive walkthrough for fine-tuning a Qwen language 
 ))
 5.  [Step 4: The Fine-Tuning Script]([https://www.google.com/search?q=%23step-4-the-fine-tuning-script](https://github.com/SakchaiSaehoei/ms-swift-lanta-finetune-guide/blob/main/README.md#step-4-the-fine-tuning-script
 ))
-6.  [Step 5: Running Inference (After Training)]([#Step-5:-Running-Inference (After Training)](https://github.com/SakchaiSaehoei/ms-swift-lanta-finetune-guide/blob/main/README.md#step-5-running-inference-after-training))
+6.  [Step 5: Running Inference (After Training)]((https://github.com/SakchaiSaehoei/ms-swift-lanta-finetune-guide/blob/main/README.md#step-5-running-inference-after-training))
 -----
 
 ### 1\. Prerequisites
