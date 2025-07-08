@@ -13,7 +13,7 @@ This guide provides a comprehensive walkthrough for fine-tuning a Qwen language 
 3.  [Step 2: Downloading the Pre-trained Model](https://www.google.com/search?q=%23step-2-downloading-the-pre-trained-model)
 4.  [Step 3: Data Preparation](https://www.google.com/search?q=%23step-3-data-preparation)
 5.  [Step 4: The Fine-Tuning Script](https://www.google.com/search?q=%23step-4-the-fine-tuning-script)
-6.  [Step 5: Running Inference (After Training)](#Step-5:-Running-Inference-(After-Training)
+6.  [Step 5: Running Inference (After Training)](#Step-5:-Running-Inference (After Training))
 -----
 
 ### 1\. Prerequisites
